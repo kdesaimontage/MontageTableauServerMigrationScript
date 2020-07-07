@@ -1,0 +1,10 @@
+## Datasource names listed here will be migrated. 
+## Add datasource name on the source server with the target project name and project ID of the target server.
+## Migration script use this mapping file to migrate datasources in desired location/project on the targer server. 
+
+## Remove above comments from the final mapping file before executing migration script
+
+SourceDataSourceName|TargetProjectName|TargetProjectID
+DataSourceName1|ProjectName1|bbed7593-5db7-4576-9a22-925b5e50620c
+DataSourceName2|SubProjectName1|c65e8fb7-1b94-453a-b753-0320a8b10c10
+DataSourceName3|ProjectName2|c65e8fb7-1b94-453a-b753-0320a8b10c10
